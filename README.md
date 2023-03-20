@@ -1,4 +1,4 @@
-# Project-Bayes-2
+# Bayes-kidneys
 
 Il s'agit d'un projet dans le cadre d'un cours intitulé méthodes bayésiennes et modèles hiérarchiques.
 
