@@ -8,7 +8,7 @@ Il s'agit d'un projet dans le cadre d'un cours intitulé méthodes bayésiennes 
   - [ ] git clone # <**Première fois seulement**>
   ```bash
   $ git clone https://github.com/sarramars/Bayes-kidneys.git
-  $ cd Project-Bayes-2
+  $ cd Bayes-kidneys
   ```
   - [ ] Mises à jour # <**À chaque utilisation**>
   ```bash
